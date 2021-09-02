@@ -1,0 +1,7 @@
+For Termux
+pkg update && upgrade
+pkg install git -y
+pkg install python -y
+git clone https://github.com/TheSpeedX/TBomb.git
+cd TBomb 
+./TBomb.sh
